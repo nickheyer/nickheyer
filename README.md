@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nickheyer
-- 👀 I’m interested in building games, as well as creating efficient data structures.
+- 👀 I’m interested in building games and automating boring tasks.
 - 🌱 I’m currently honing my Unreal-Engine-specific-syntax, in hopes of joining the industry.
 - 💞️ I’m looking to collaborate on pretty much anything!
 - 📫 How to reach me ~ On discord via "NastyNick#4212" or email via "nick@heyer.app".
