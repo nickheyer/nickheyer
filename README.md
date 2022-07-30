@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicholasheyer" target="blank"><img src="https://img.shields.io/twitter/follow/nicholasheyer?logo=twitter&style=for-the-badge" alt="nicholasheyer" /></a> </p>
 
-- 🔭 I’m currently working on [lynks.h](https://github.com/nickheyer/lynks.h)
-
-- 🌱 I’m currently learning **Data Analysis in C**
-
-- 👯 I’m looking to collaborate on [SimpIDE](https://github.com/nickheyer/SimpIDE)
-
-- 🤝 I’m very much enjoying [DiscoFlix](https://github.com/nickheyer/DiscoFlix)
+- 🔭 I’m currently working on [DiscoFlix](https://github.com/nickheyer/DiscoFlix)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nickheyer](https://github.com/nickheyer)
 
