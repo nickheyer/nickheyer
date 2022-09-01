@@ -21,6 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/6Z9yKTbsrP" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-icon-your-gaming-dude-rsps-wow-minecraft-and-maplestory-2.png" alt="NicholasHeyer#4212" height="40" width="40" /></a>
 <a href="https://twitter.com/nicholasheyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicholasheyer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nick-heyer-6b5384b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-heyer-6b5384b4" height="30" width="40" /></a>
 <a href="https://instagram.com/mrnickheyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrnickheyer" height="30" width="40" /></a>
