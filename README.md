@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nick Heyer</h1>
-<h3 align="center">An independent developer, with a burning love for gaming and data.</h3>
+<h3 align="center">A Software Engineer, with a burning love for gaming and data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickheyer&label=Profile%20views&color=0e75b6&style=flat" alt="nickheyer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nicholasheyer" target="blank"><img src="https://img.shields.io/twitter/follow/nicholasheyer?logo=twitter&style=for-the-badge" alt="nicholasheyer" /></a> </p>
 
-- 🔭 I’m currently working on [DiscoFlix](https://github.com/nickheyer/DiscoFlix)
+- 🔭 I’m currently working on [DiscoClip](https://github.com/nickheyer/DiscoClip)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nickheyer](https://github.com/nickheyer)
 
