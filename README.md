@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicholasheyer" target="blank"><img src="https://img.shields.io/twitter/follow/nicholasheyer?logo=twitter&style=for-the-badge" alt="nicholasheyer" /></a> </p>
 
-- 🔭 I’m currently working on [DiscoClip](https://github.com/nickheyer/DiscoClip)
+- 🔭 I’m currently working on [DiscoFlix](https://github.com/nickheyer/DiscoFlix)
 
 - 👨‍💻 All of my projects are available at [https://github.com/nickheyer](https://github.com/nickheyer)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nick@heyer.app**
 
-- 📄 Know about my experiences [https://github.com/nickheyer/Resume/blob/main/Nicholas_Heyer_Resume.pdf](https://github.com/nickheyer/Resume/blob/main/Nicholas_Heyer_Resume.pdf)
+- 📄 Learn about my experiences [https://github.com/nickheyer/Resume/blob/main/Nicholas_Heyer_Resume.pdf](https://github.com/nickheyer/Resume/blob/main/Nicholas_Heyer_Resume.pdf)
 
 - ⚡ Fun fact **I am an incredible Minecraft player.**
 
