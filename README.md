@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nick Heyer</h1>
-<h3 align="center">A Software Engineer, with a burning love for gaming and data.</h3>
+<h3 align="center">Sr. Software Engineer + Cryptography Guy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickheyer&label=Profile%20views&color=0e75b6&style=flat" alt="nickheyer" /> </p>
 
